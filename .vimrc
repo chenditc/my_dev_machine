@@ -25,6 +25,9 @@ set ts=4
 set softtabstop=4
 set sw=4
 set backspace=indent,eol,start
+set fileencodings=utf-8,gbk,utf-16le,cp1252,iso-8859-15,ucs-bom
+set termencoding=utf-8
+set encoding=utf-8
 
 let g:clang_library_path='/usr/lib/llvm-3.8/lib/libclang-3.8.so.1'
 
